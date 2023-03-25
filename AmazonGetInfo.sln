@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AmazonGetInfo", "AmazonGetInfo.pyproj", "{92C8A9BD-6D98-4DFD-94B0-4F087250AF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C8A9BD-6D98-4DFD-94B0-4F087250AF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C8A9BD-6D98-4DFD-94B0-4F087250AF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C387C0-3B2F-44D0-BD3F-29E1962293F0}
+	EndGlobalSection
+EndGlobal
